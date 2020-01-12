@@ -1,4 +1,4 @@
-# SUTD Volleyball <html><img src="./assets/mikasa200.png" width="50" height="50"><html>
+# SUTD Volleyball <html><img src="./assets/logo.jpg" width="50" height="50"><html>
 
 ## Activities
 #### Weekly Training
@@ -26,3 +26,5 @@ Stay tuned!
 Mobile: +65 9397 1771\
 Telegram: @dibsondivya
 
+## Follow us 
+<html><a href="https://www.instagram.com/vballsutd/"><img src="./assets/instalogo.png" width="25" height="25"></a><html>
