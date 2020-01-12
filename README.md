@@ -1,4 +1,4 @@
-# SUTD Volleyball <html><img src="./mikasa200.png" width="50" height="50"><html>
+# SUTD Volleyball <html><img src="./assets/mikasa200.png" width="50" height="50"><html>
 
 ## Activities
 #### Weekly Training
@@ -11,7 +11,7 @@
 
 
 #### Volleyball Camp 2019
-
+<html><img src="./assets/camp1.png" width="250" height="250"><html>
 
 
 ## Upcoming events
