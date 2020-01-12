@@ -8,10 +8,10 @@
 | Women ( Friday )  | ISH2  | 7pm - 11pm  |
 
 #### SUniG 2019
-
-
+<html><img src="./assets/women sunig 2019.jpg" "Women's team during SUniG 2019!"><html>
+ 	
 #### Volleyball Camp 2019
-<html><img src="./assets/camp1.jpg"><html>
+<html><img src="./assets/camp1.jpg" "Had a blast on Tanjong Beach!"><html>
 
 
 ## Upcoming events
