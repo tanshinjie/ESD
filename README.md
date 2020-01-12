@@ -1,4 +1,4 @@
-# SUTD Volleyball
+# SUTD Volleyball <html><img src="./mikasa200.png" width="50" height="50"><html>
 
 ## Activities
 #### Weekly Training
