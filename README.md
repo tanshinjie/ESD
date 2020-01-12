@@ -11,7 +11,7 @@
 
 
 #### Volleyball Camp 2019
-<html><img src="./assets/camp1.png" width="250" height="250"><html>
+<html><img src="./assets/camp1.jpg" width="250" height="250"><html>
 
 
 ## Upcoming events
