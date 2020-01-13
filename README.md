@@ -1,4 +1,4 @@
-# SUTD Volleyball <html><img src="./assets/logo.jpg" width="55" height="50"><html>
+# SUTD Volleyball
 
 ## Activities
 #### Weekly Training
@@ -8,11 +8,10 @@
 | Women ( Friday )  | ISH2  | 7pm - 11pm  |
 
 #### SUniG 2019
-<html><img src="https://raw.githubusercontent.com/tanshinjie/Volleyball/master/assets/women%20sunig%202019.jpg" "Women's team during SUniG 2019!"><html>
+![Women's team during SUniG 2019!]("https://raw.githubusercontent.com/tanshinjie/Volleyball/master/assets/women%20sunig%202019.jpg" "Women's team during SUniG 2019!")
  	
 #### Volleyball Camp 2019
-<html><img src="https://raw.githubusercontent.com/tanshinjie/Volleyball/master/assets/camp1.jpg" "Had a blast on Tanjong Beach!"><html>
-
+!["Had a blast on Tanjong Beach!"]("https://raw.githubusercontent.com/tanshinjie/Volleyball/master/assets/camp1.jpg" "Had a blast on Tanjong Beach!")
 
 ## Upcoming events
 1. SUTD OpenHouse 2020
@@ -27,4 +26,4 @@ Mobile: +65 9397 1771\
 Telegram: @dibsondivya
 
 ## Follow us 
-<html><a target="_blank" href="https://www.instagram.com/vballsutd/"><img src="./assets/instalogo.png" width="30" height="30"></a><html>
+!["vballsutd_insta"]("https://www.instagram.com/vballsutd/")
