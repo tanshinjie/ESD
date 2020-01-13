@@ -1,8 +1,3 @@
-<ul>
- <li>Coffee</li>
- <li>Tea</li>
- <li>Milk</li>
-</ul> 
 ## Activities
 ### Weekly Training
 | Training        | Venue| Time |
@@ -31,4 +26,5 @@ Telegram: @dibsondivya
 ## Follow us 
 [![Instagram Account](https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/instalogo.png)](https://www.instagram.com/vballsutd/)
 
+<img src="https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/logo.jpg" alt="Logo" height="42" width="42"> 
 
