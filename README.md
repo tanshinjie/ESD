@@ -1,6 +1,6 @@
 # SUTD Volleyball <img src="https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/logo.jpg" alt="Logo" height="42" width="42"> 
 ## Activities
-### Weekly Training
+#### Weekly Training
 <table>
   <tr>
     <th>Training</th>
@@ -19,10 +19,10 @@
   </tr>
 </table>
 
-### SUniG 2019
+#### SUniG 2019
 ![Women's team during SUniG 2019!](https://raw.githubusercontent.com/tanshinjie/Volleyball/master/assets/women%20sunig%202019.jpg "Women's team during SUniG 2019!")
  	
-### Volleyball Camp 2019
+#### Volleyball Camp 2019
 ![Had a blast on Tanjong Beach!](https://raw.githubusercontent.com/tanshinjie/Volleyball/master/assets/camp1.jpg "Had a blast on Tanjong Beach!")
 
 ## Upcoming events
