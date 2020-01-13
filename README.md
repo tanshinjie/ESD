@@ -1,9 +1,23 @@
+# SUTD Volleyball <img src="https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/logo.jpg" alt="Logo" height="42" width="42"> 
 ## Activities
 ### Weekly Training
-| Training        | Venue| Time |
-| ------------- |:-------------:| -----:|
-| Men ( Tuesday )   | ISH2  | 7pm - 11pm  |
-| Women ( Friday )  | ISH2  | 7pm - 11pm  |
+<table>
+  <tr>
+    <th>Training</th>
+    <th>Venue</th> 
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>Men ( Tuesday )</td>
+    <td>ISH2</td>
+    <td>7pm - 11pm</td>
+  </tr>
+  <tr>
+    <td>Women ( Friday )</td>
+    <td>ISH2</td>
+    <td>7pm - 11pm</td>
+  </tr>
+</table>
 
 ### SUniG 2019
 ![Women's team during SUniG 2019!](https://raw.githubusercontent.com/tanshinjie/Volleyball/master/assets/women%20sunig%202019.jpg "Women's team during SUniG 2019!")
@@ -20,11 +34,11 @@ Stay tuned!
 
 ## Contact
 #### Divya
-Mobile: +65 9397 1771\
-Telegram: @dibsondivya
+<p>Mobile: +65 9397 1771<br>
+Telegram: @dibsondivya</p>
 
 ## Follow us 
-[![Instagram Account](https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/instalogo.png)](https://www.instagram.com/vballsutd/)
-
-<img src="https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/logo.jpg" alt="Logo" height="42" width="42"> 
-
+<a target="_blank" href="https://www.instagram.com/vballsutd/">
+   <img alt="Vball Insta" src="https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/instalogo.png"
+   width=50" height="50">
+</a>
