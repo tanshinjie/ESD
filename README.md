@@ -37,7 +37,9 @@ Stay tuned!
 <p>Mobile: +65 9397 1771<br>
 Telegram: @dibsondivya</p>
 
-## Follow us 
-<a target="_blank" href="https://www.instagram.com/vballsutd/">
-  <img alt="Vball Insta" src="https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/instalogo.png" width=50" height="50">
-</a>
+## Follow us
+<a target="_blank" href="https://www.instagram.com/vballsutd">
+<img src="https://raw.githubusercontent.com/tanshinjie/SUTD-Volleyball/master/assets/instalogo.png" alt="insta_account" height="42" width="42"></a> 
+
+                                                                                                                                             
+                                                                                                                                             
